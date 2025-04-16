@@ -3,7 +3,7 @@ name = "crtgen"
 version = "0.1.0"
 description = "Automating the creation of SecureCRT session files"
 authors = [
-    {name = "Dongju Yoo",email = "you1367@gmail.com"}
+    {name = "Aiden Yoo",email = "you1367@gmail.com"}
 ]
 license = { text = "MIT" }
 readme = "README.md"
